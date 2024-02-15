@@ -4,5 +4,5 @@
 <h2> Projects:</h2>
 
 - <b>Big 3 Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [kpop spotify project](https://github.com/mclainbrown/big3_project)
 
